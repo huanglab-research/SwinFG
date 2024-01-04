@@ -1,4 +1,4 @@
-# SwinFG: A Fine-grained Recognition Scheme Based on Swin Transformer
+![image](https://github.com/huanglab-research/SwinFG/assets/143200561/ca5c7cfb-601b-4946-8d8e-b019f3663348)# SwinFG: A Fine-grained Recognition Scheme Based on Swin Transformer
 
 
 ## Framework of SwinFG
@@ -35,3 +35,17 @@ pip3 install -r requirements.txt
 CUDA_VISIBLE_DEVICES=0  python3 -m torch.distributed.launch --nproc_per_node 1 train.py --dataset CUB --name myTrain 
 ```
 
+### 4. Citing SwinFG
+
+```
+@article{MA2024123021,
+title = {SwinFG: A fine-grained recognition scheme based on swin transformer},
+journal = {Expert Systems with Applications},
+volume = {244},
+pages = {123021},
+year = {2024},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2023.123021},
+author = {Zhipeng Ma and Xiaoyu Wu and Anzhuo Chu and Lei Huang and Zhiqiang Wei}
+}
+```
