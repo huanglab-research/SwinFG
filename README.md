@@ -2,7 +2,7 @@
 
 
 ## Framework of SwinFG
-![](./architecture.png)
+<img src="./architecture.png" style="zoom:33%;" />
 
 ## Dependencies:
 + Python 3.8.12
