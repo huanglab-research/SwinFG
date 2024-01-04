@@ -1,4 +1,4 @@
-![image](https://github.com/huanglab-research/SwinFG/assets/143200561/ca5c7cfb-601b-4946-8d8e-b019f3663348)# SwinFG: A Fine-grained Recognition Scheme Based on Swin Transformer
+# SwinFG: A Fine-grained Recognition Scheme Based on Swin Transformer
 
 
 ## Framework of SwinFG
