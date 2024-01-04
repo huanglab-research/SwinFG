@@ -1,5 +1,6 @@
 # SwinFG: A Fine-grained Recognition Scheme Based on Swin Transformer
- 
+
+This is the implementation of paper: SwinFG: A fine-grained recognition scheme based on swin transformer
 
 ## Framework of SwinFG
 <img src="./architecture.png" style="zoom:33%;" />
